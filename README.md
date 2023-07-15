@@ -2,7 +2,7 @@
 
 ### main2.py Description
 
-### main2.py Output:
+#### main2.py Output:
 
 
 ### main.py Description
@@ -14,6 +14,6 @@ For each frame, the input is transformed using the MiDaS transforms pipeline, an
 
 The code also displays the original video frames in a window using OpenCV's imshow() function. The video stream can be stopped by pressing the 'q' key on the keyboard.
 
-### main.py Output:
+#### main.py Output:
 
 ![image](https://user-images.githubusercontent.com/87671757/217102950-e287fc77-59b9-40ef-8416-6177a051ca5d.png)
