@@ -1,9 +1,10 @@
 # MiDaS-CV-Depth-Estimation
 
 ### mainV2.py Description
+Incorporated mainV1.py into a streamlit web application
 
 #### mainV2.py Output:
-
+![image](https://github.com/petermartens98/MiDaS-CV-Depth-Estimation/assets/87671757/1b90b708-ae51-41e9-8f71-ebb17910ec93)
 
 ### mainV1.py Description
 This Python code uses the MiDaS (Mixed Densely Associated Scale) model to perform depth estimation on live video from a webcam.
